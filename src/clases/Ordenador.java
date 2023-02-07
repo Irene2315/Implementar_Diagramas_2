@@ -1,5 +1,6 @@
 package clases;
 
+
 public class Ordenador {
 	private CPU cpu;
 	private Pantalla pantalla;
